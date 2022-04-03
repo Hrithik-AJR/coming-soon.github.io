@@ -131,7 +131,7 @@ footer h4{
             background-image: url(images/phone.png);
         }
         .end{
-            margin-bottom: 12px;
+            margin-bottom: 2px;
             font-size: 10px;
         }
         
@@ -220,7 +220,8 @@ footer h4{
         width:124px;
     }
     .maker{
-        font-size: 13.5px;}
+        font-size: 13.5px;
+    }
 
     .about h1{
         font-size: 44px;
